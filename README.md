@@ -11,7 +11,7 @@
     <p style="width: 50%; font-size: 18px; line-height: 1.6;">
         I'm a fervent full-stack developer driven by a desire to craft innovative solutions for the digital age. Specializing in front-end development, I excel in creating interactive and responsive websites for diverse industries. Proficient in HTML, CSS, and JavaScript, my focus on accessibility and usability ensures seamless user experiences. Explore my GitHub profile for a glimpse into my latest projects and contributions, showcasing my expertise in modern frameworks for dynamic and user-friendly interfaces.
     </p>
-    <img style="width: 200px; height: auto; max-height: 30vh; margin-left: 20px; text-align: start;" align="left" src="./assets/1.svg" alt="vivek20eng" />
+<!--     <img style="width: 200px; height: auto; max-height: 30vh; margin-left: 20px; text-align: start;" align="left" src="./assets/1.svg" alt="vivek20eng" /> -->
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek20eng&label=Profile%20views&color=0e75b6&style=flat" alt="vivek20eng" /> </p>
