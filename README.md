@@ -1,12 +1,17 @@
 <!-- <img src="https://giphy.com/embed/CJzxeevfkefecfVbU5" width="100%" height="auto"/> -->
-<iframe src="https://giphy.com/embed/CJzxeevfkefecfVbU5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-loop-digital-CJzxeevfkefecfVbU5">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGRqNGxudHpiNGh0bDVnNWg5eGtzb3p6NzkyMTF1bzc5eTloMXB0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<!-- <p><a href="https://giphy.com/gifs/art-loop-digital-CJzxeevfkefecfVbU5">via GIPHY</img>
+</p> -->
+<div>
+
+</div>
 <h1 style="text-align: start;">Hi 👋, I'm Vivek</h1>
 <h3 style="text-align: start;">A passionate frontend developer</h3>
-<div style="display: flex; justify-content: center; align-items: flex-start;">
+<div style="display: flex; justify-content: start; align-items: flex-start;">
     <p style="width: 50%; font-size: 18px; line-height: 1.6;">
         I'm a fervent full-stack developer driven by a desire to craft innovative solutions for the digital age. Specializing in front-end development, I excel in creating interactive and responsive websites for diverse industries. Proficient in HTML, CSS, and JavaScript, my focus on accessibility and usability ensures seamless user experiences. Explore my GitHub profile for a glimpse into my latest projects and contributions, showcasing my expertise in modern frameworks for dynamic and user-friendly interfaces.
     </p>
-    <img style="width: 50%; height: auto; max-height: 30vh; margin-left: 20px; text-align: start;" align="left" src="./1.svg" alt="vivek20eng" />
+    <img style="width: 200px; height: auto; max-height: 30vh; margin-left: 20px; text-align: start;" align="left" src="./assets/1.svg" alt="vivek20eng" />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek20eng&label=Profile%20views&color=0e75b6&style=flat" alt="vivek20eng" /> </p>
