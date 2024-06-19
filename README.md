@@ -24,9 +24,11 @@
 
 <h3 style="text-align: left;">Connect with me:</h3>
 <p style="text-align: left;">
-    <a href="https://dev.to/https://dev.to/vivek20eng" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/vivek20eng" height="30" width="40" style="vertical-align: middle; margin-right: 10px;" /></a>
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/vivek-s-abb88a1ab/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-s-abb88a1ab/" height="30" width="40" style="vertical-align: middle; margin-right: 10px;" /></a>
-</p>
+    <a href="https://dev.to/vivek20eng" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/vivek20eng" height="30" width="40" style="vertical-align: middle; margin-right: 10px;" /></a>
+    <a href="https://www.linkedin.com/in/vivek-s-abb88a1ab/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vivek-s-abb88a1ab/" height="30" width="40" style="vertical-align: middle; margin-right: 10px;" /></a>
+
+<a href="https://vivek-in.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/vivek20eng" height="30" width="40" style="vertical-align: middle; margin-right: 10px;" /></a>
+ </p> 
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left"> 
