@@ -41,7 +41,8 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img style="aspect-ratio:3/2;padding:2rem;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 
 <hr/>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools: Actively self-learning to expand my technical expertise.
+</h3>
 <div align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img style="aspect-ratio:3/2;padding:2rem;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img style="aspect-ratio:3/2;padding:2rem;" src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
