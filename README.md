@@ -87,3 +87,61 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivek20eng&show_icons=true&locale=en" alt="vivek20eng" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivek20eng&" alt="vivek20eng" /></p>
+
+
+# Vivek's Project Portfolio 🚀
+
+Welcome to my project showcase! Here you'll find a collection of web applications and user interfaces I've developed. Each project demonstrates different skills and technologies in web development.
+
+## Projects
+
+[<img src="https://img.shields.io/badge/Fake%20Store-4CAF50?style=for-the-badge&logo=shopify&logoColor=white" alt="Fake Store" target="_blank">](https://fake-store-hazel.vercel.app/)
+An e-commerce platform with a sleek design and smooth user experience.
+
+[<img src="https://img.shields.io/badge/Visme%20Form-FF6B6B?style=for-the-badge&logo=formstack&logoColor=white" alt="Visme Form" target="_blank">](https://vivek-in-git-visme-form-vivek20engs-projects.vercel.app/)
+A dynamic form builder with intuitive UI components.
+
+[<img src="https://img.shields.io/badge/UI%20Components-3498DB?style=for-the-badge&logo=storybook&logoColor=white" alt="UI Components" target="_blank">](https://ui-component-rouge.vercel.app/)
+A showcase of reusable and customizable UI components.
+
+[<img src="https://img.shields.io/badge/Parallax%20UI-9B59B6?style=for-the-badge&logo=framer&logoColor=white" alt="Parallax UI" target="_blank">](https://parallax-ui.vercel.app/)
+Engaging parallax scrolling effects for immersive user experiences.
+
+[<img src="https://img.shields.io/badge/Three.js%20Demo-F39C12?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js Demo" target="_blank">](https://three-js-nu-liart.vercel.app/)
+3D graphics and animations powered by Three.js.
+
+[<img src="https://img.shields.io/badge/Dashboard%20UI-2C3E50?style=for-the-badge&logo=dash&logoColor=white" alt="Dashboard UI" target="_blank">](https://dashboard-ui-seven-ruddy.vercel.app/)
+A comprehensive dashboard interface for data visualization.
+
+[<img src="https://img.shields.io/badge/Table%20Reservation-E74C3C?style=for-the-badge&logo=opentable&logoColor=white" alt="Table Reservation" target="_blank">](https://table-reservation-system.vercel.app/)
+A system for managing restaurant table reservations.
+
+[<img src="https://img.shields.io/badge/Flipkart%20Clone-2980B9?style=for-the-badge&logo=flipkart&logoColor=white" alt="Flipkart Clone" target="_blank">](https://flip-kart-clone-ruby.vercel.app/)
+A replica of the popular e-commerce platform Flipkart.
+
+[<img src="https://img.shields.io/badge/Personal%20Website-27AE60?style=for-the-badge&logo=about.me&logoColor=white" alt="Personal Website" target="_blank">](https://vivek-in-five.vercel.app/)
+My personal portfolio website showcasing my skills and projects.
+
+[<img src="https://img.shields.io/badge/Socket%20Mouse%20Pointer-8E44AD?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket Mouse Pointer" target="_blank">](https://socket-mouse-pointer.vercel.app/)
+Real-time mouse pointer tracking using Socket.io.
+
+[<img src="https://img.shields.io/badge/Next%20Dashboard-34495E?style=for-the-badge&logo=next.js&logoColor=white" alt="Next Dashboard" target="_blank">](https://next-dashboard-two-theta.vercel.app/)
+A modern dashboard built with Next.js for optimal performance.
+
+[<img src="https://img.shields.io/badge/Weather%20App-3498DB?style=for-the-badge&logo=weather&logoColor=white" alt="Weather App" target="_blank">](https://weather-app-virid-sigma-20.vercel.app/)
+A user-friendly weather application with real-time updates.
+
+[<img src="https://img.shields.io/badge/Sketch%20Web-F39C12?style=for-the-badge&logo=sketch&logoColor=white" alt="Sketch Web" target="_blank">](https://sketch-web.vercel.app/)
+An online sketching tool for creative expression.
+
+[<img src="https://img.shields.io/badge/Login%20System-E74C3C?style=for-the-badge&logo=auth0&logoColor=white" alt="Login System" target="_blank">](https://vivek-com-ygck.vercel.app/login)
+A secure and user-friendly login and authentication system.
+
+
+## Get in Touch
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions. Feel free to reach out!
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/vivek-s-abb88a1ab/)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/vivek20Eng)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">](mailto:vivekanandans2017@gmail.com)
