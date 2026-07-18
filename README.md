@@ -126,6 +126,147 @@ const vivek = {
 
 ---
 
+<table>
+<tr>
+
+<td width="50%">
+
+<a href="https://viskool.com">
+<img src="https://img.shields.io/badge/🎓%20Viskool%20CMS-2563EB?style=for-the-badge&logo=next.js&logoColor=white"/>
+</a>
+
+AI-powered Learning Platform with a modern CMS and Admin Portal.
+
+**Tech:** `Next.js` `React` `Node.js`
+
+</td>
+
+<td width="50%">
+
+<img src="https://img.shields.io/badge/🚀%20Wayvida-7C3AED?style=for-the-badge&logo=react&logoColor=white"/>
+
+Enterprise SaaS Platform with AI, CMS, Memberships & Admin.
+
+**Tech:** `React` `Next.js` `NestJS`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<a href="https://ui-component-rouge.vercel.app/">
+<img src="https://img.shields.io/badge/🎨%20UI%20Components-0EA5E9?style=for-the-badge&logo=storybook&logoColor=white"/>
+</a>
+
+Reusable React Component Library.
+
+**Tech:** `React` `TypeScript`
+
+</td>
+
+<td>
+
+<a href="https://dashboard-ui-seven-ruddy.vercel.app/">
+<img src="https://img.shields.io/badge/📊%20Dashboard%20UI-334155?style=for-the-badge&logo=next.js&logoColor=white"/>
+</a>
+
+Modern Analytics Dashboard.
+
+**Tech:** `Next.js`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<a href="https://parallax-ui.vercel.app/">
+<img src="https://img.shields.io/badge/🌊%20Parallax%20UI-8B5CF6?style=for-the-badge&logo=framer&logoColor=white"/>
+</a>
+
+Interactive Parallax Landing Page.
+
+**Tech:** `React` `Framer Motion`
+
+</td>
+
+<td>
+
+<a href="https://three-js-nu-liart.vercel.app/">
+<img src="https://img.shields.io/badge/⚡%20Three.js-F59E0B?style=for-the-badge&logo=three.js&logoColor=black"/>
+</a>
+
+3D Web Experience built using Three.js.
+
+**Tech:** `Three.js`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<a href="https://fake-store-hazel.vercel.app/">
+<img src="https://img.shields.io/badge/🛒%20Fake%20Store-22C55E?style=for-the-badge&logo=shopify&logoColor=white"/>
+</a>
+
+Modern E-commerce Store UI.
+
+**Tech:** `React`
+
+</td>
+
+<td>
+
+<a href="https://socket-mouse-pointer.vercel.app/">
+<img src="https://img.shields.io/badge/🖱%20Socket%20Pointer-E11D48?style=for-the-badge&logo=socket.io&logoColor=white"/>
+</a>
+
+Real-time Mouse Pointer Collaboration.
+
+**Tech:** `Socket.io`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<a href="https://weather-app-virid-sigma-20.vercel.app/">
+<img src="https://img.shields.io/badge/🌦%20Weather%20App-0EA5E9?style=for-the-badge&logo=openweathermap&logoColor=white"/>
+</a>
+
+Weather Forecast Application.
+
+**Tech:** `React`
+
+</td>
+
+<td>
+
+<a href="https://vivek-in.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+Personal Portfolio Website.
+
+**Tech:** `Next.js`
+
+</td>
+
+</tr>
+
+</table>
+
 # 📈 GitHub Analytics
 
 <p align="center">
